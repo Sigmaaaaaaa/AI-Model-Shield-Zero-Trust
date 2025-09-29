@@ -46,8 +46,8 @@ pip install -r requirements.txt
 Create a `.env` file in the project root:
 
 ```ini
-MODEL_ENCRYPTION_KEY="aB9xT7vQ2LmN8rYpKzW3eF6gHjU1oC4d"
-API_KEY="thales_secure_access_team_alpha_2025"
+MODEL_ENCRYPTION_KEY=
+API_KEY=
 ```
 
 ### Step 3: Start Secure API Server (Backend)
