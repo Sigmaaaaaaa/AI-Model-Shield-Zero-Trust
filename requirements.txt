@@ -1,0 +1,10 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+streamlit
+numpy
+tensorflow # or torch, depending on your model choice
+cryptography # for AES encryption
+shap
