@@ -90,5 +90,5 @@ Challenge the system with the scenarios below (using provided API Key: `thales_s
 
 AI Model Shield demonstrates how **Zero-Trust Security + Trusted AI** can safeguard mission-critical pipelines. It lays the foundation for **secure, explainable, and operationally reliable AI** in the defence and aerospace domains.
 
-**Developer:** Satyam Pal
+**Developer:** Satyam Pal , 
 **Date:** September 28, 2025
